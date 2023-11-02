@@ -304,3 +304,98 @@
   time: "09:15"
   skip: True
 
+- fullname: Vitória Barin Pacela
+  affiliations:
+  - Mila, Quebec AI Institute
+  - DIRO, Université de Montréal
+  - Meta (FAIR), Montreal
+  nametitle:
+  position: PhD student
+  bio: "Vitória is a Ph.D. student at Mila and the Université de Montréal, supervised by Professor Simon Lacoste-Julien. She is also a visiting researcher at Meta (FAIR) in Montreal, supervised by Professor Pascal Vincent. Vitória is broadly interested in causal representation learning."
+  photo: vbp.jpg
+  alttext: Vitória Barin Pacela
+  title: "Introduction to Probability"
+  abstract: ""
+  session: day1
+  date: 20231108
+  time: "09:45"
+  tags:
+    - name: Website
+      link: https://vitoriapacela.github.io/
+  skip: False
+
+- fullname: Tristan Deleu
+  affiliations:
+  - Mila, Quebec AI Institute
+  - DIRO, Université de Montréal
+  nametitle:
+  position: PhD student
+  bio: ""
+  photo: td.jpg
+  alttext: Tristan Deleu
+  title: "Probabilistic Modeling"
+  abstract: "Tristan is a Ph.D. candidate at Mila & Université de Montréal, under the supervision of Yoshua Bengio. His research interests include Probabilistic Modeling, Structure Learning, Meta-Learning, Few-shot Learning, and Reinforcement Learning."
+  session: day1
+  date: 20231108
+  time: "11:00"
+  tags:
+    - name: Website
+      link: https://tristandeleu.github.io/
+  skip: False
+
+- fullname: Sébastien Lachapelle
+  affiliations:
+  - Samsung's SAIT AI Lab (SAIL)
+  - Mila, Quebec AI Institute
+  - DIRO, Université de Montréal
+  nametitle:
+  position: Research scientist
+  bio: "Sébastien is a research scientist at Samsung's SAIT AI Lab (SAIL) in Montreal as well as a final year Ph.D. student supervised by Simon Lacoste-Julien. He has graduated from Université de Montréal with a Bachelor's degree in Mathematics and Economics. Sébastien's current focus is on questions of identifiability in representation learning. He also did work on causal structure learning with continuous-constrained optimization methods."
+  photo: sl.jpg
+  alttext: Sébastien Lachapelle
+  title: "Probabilistic Inference"
+  abstract: ""
+  session: day1
+  date: 20231108
+  time: "11:45"
+  tags:
+    - name: Website
+      link: https://slachapelle.github.io/
+  skip: False
+
+- fullname: Pablo Lemos
+  affiliations:
+  - Mila, Quebec AI Institute
+  - CIELA institute, Université de Montréal
+  nametitle: Dr.
+  position: Postdoctoral Research Fellow
+  bio: "Pablo is a postdoctoral Research Fellow in cosmology and machine learning at the Montrel Institute for Learning Algorithms (Mila) and the CIELA institute at the University of Montreal. His work focuses on applying machine learning tools to various problems in astrophysics and cosmology. He is very interested in graph neural networks, symbolic regression and simulation-based inference amongst other things."
+  photo: pl.jpg
+  alttext: Dr. Pablo Lemos
+  title: "Sampling Methods"
+  abstract: ""
+  session: day1
+  date: 20231108
+  time: "14:00"
+  tags:
+    - name: Website
+      link: https://pablo-lemos.github.io/
+  skip: False
+
+- fullname: Padideh Nouri
+  affiliations:
+  - Mila, Quebec AI Institute
+  nametitle: 
+  position: 
+  bio: ""
+  photo: pn.jpg
+  alttext: Padideh Nouri
+  title: "Sampling with Reinforcement Learning"
+  abstract: ""
+  session: day1
+  date: 20231108
+  time: "14:45"
+  tags:
+    - name: Website
+      link: https://informaticspadideh.com/
+  skip: False
