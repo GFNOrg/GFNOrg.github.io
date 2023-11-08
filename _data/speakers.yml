@@ -28,6 +28,15 @@
       link: https://www.youtube.com/watch?v=uOzCKnTDvqY
   skip: False
 
+- fullname: Yoshua Bengio
+  photo: yoshua_bengio.jpg
+  title: "Open problems and future perspective"
+  abstract: ""
+  session: day3
+  date: 20231110
+  time: "16:45"
+  skip: True
+
 - fullname: Emmanuel Bengio
   affiliations:
   - Recursion
@@ -46,6 +55,21 @@
       link: https://folinoid.com/
   skip: False
 
+- fullname: Emmanuel Bengio
+  photo: eb.jpg
+  title: "Evaluation metrics for GFlowNets"
+  session: day3
+  date: 20231110
+  time: "11:30"
+  skip: True
+
+- fullname: Emmanuel Bengio
+  photo: eb.jpg
+  title: "Molecular design"
+  session: day3
+  date: 20231110
+  time: "09:30"
+  skip: True
 
 - fullname: Nikolay Malkin
   affiliations:
@@ -65,6 +89,14 @@
     - name: Website
       link: https://malkin1729.github.io/
   skip: False
+
+- fullname: Nikolay Malkin
+  photo: nm.jpg
+  title: "Language models"
+  session: day3
+  date: 20231110
+  time: "11:00"
+  skip: True
 
 - fullname: Jarrid Rector-Brooks
   affiliations:
@@ -103,6 +135,15 @@
     - name: Website
       link: https://mj10.github.io/
   skip: False
+
+- fullname: Moksh Jain
+  photo: mj.jpg
+  title: "Biological sequence design"
+  abstract: ""
+  session: day3
+  date: 20231110
+  time: "09:15"
+  skip: True
 
 - fullname: Léna Néhale Ezzine
   affiliations:
@@ -157,6 +198,14 @@
       link: https://www.viviano.ca/
   skip: False
 
+- fullname: Joseph Viviano
+  photo: jv.jpg
+  title: "Hands-on: Continuous GFlowNets"
+  session: day2
+  date: 20231109
+  time: "16:30"
+  skip: True
+
 - fullname: Alex Hernandez-Garcia
   affiliations:
   - Mila, Quebec AI Institute
@@ -204,52 +253,6 @@
       link: https://alexandravolokhova.github.io/
   skip: False
 
-- fullname: Emmanuel Bengio
-  affiliations:
-  - Recursion
-  nametitle: Dr.
-  position: Senior Machine Learning Scientist
-  bio: "Emmanuel Bengio is a Sr ML Scientist at Valence Labs, working on the intersection of GFlowNets and de-novo drug design. He did his PhD under Joelle Pineau and Doina Precup at McGill/Mila, focusing on understanding generalization in deep RL."
-  photo: eb.jpg
-  alttext: Dr. Emmanuel Bengio
-  title: "Evaluation metrics for GFlowNets"
-  abstract: ""
-  session: day3
-  date: 20231110
-  time: "11:30"
-  tags:
-    - name: Website
-      link: https://folinoid.com/
-  skip: True
-
-- fullname: Emmanuel Bengio
-  photo: eb.jpg
-  title: "Molecular design"
-  abstract: ""
-  session: day3
-  date: 20231110
-  time: "09:30"
-  skip: True
-
-- fullname: Nikolay Malkin
-  affiliations:
-  - Mila, Quebec AI Institute
-  - DIRO, Université de Montréal
-  nametitle: Dr.
-  position: Postdoctoral Fellow
-  bio: "Nikolay Malkin is a postdoctoral researcher at Mila – Québec AI Institute and Université de Montréal. His research interests include probabilistic inference algorithms for structured latent variables, induction of compositional structure in generative models, and applications to vision and language modeling. He received his PhD in mathematics from Yale University in 2021 and therefore views human-like symbolic and formal reasoning as a long-term aspiration for AI systems."
-  photo: nm.jpg
-  alttext: Dr. Nikolay Malkin
-  title: "Language models"
-  abstract: ""
-  session: day3
-  date: 20231110
-  time: "11:00"
-  tags:
-    - name: Website
-      link: https://malkin1729.github.io/
-  skip: True
-
 - fullname: Mizu Nishikawa-Toomey
   affiliations:
   - Mila, Quebec AI Institute
@@ -285,24 +288,6 @@
     - name: Website
       link: https://zdhnarsil.github.io/
   skip: False
-
-- fullname: Yoshua Bengio
-  photo: yoshua_bengio.jpg
-  title: "Open problems and future perspective"
-  abstract: ""
-  session: day3
-  date: 20231110
-  time: "16:45"
-  skip: True
-
-- fullname: Moksh Jain
-  photo: mj.jpg
-  title: "Biological sequence design"
-  abstract: ""
-  session: day3
-  date: 20231110
-  time: "09:15"
-  skip: True
 
 - fullname: Vitória Barin Pacela
   affiliations:
