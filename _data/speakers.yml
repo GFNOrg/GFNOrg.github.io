@@ -161,6 +161,15 @@
   time: "14:40"
   skip: False
 
+- fullname: Léna Néhale Ezzine
+  position: PhD Student
+  photo: lne.jpeg
+  title: "Molecular and protein conformation generation"
+  session: day3
+  date: 20231110
+  time: "09:45"
+  skip: True
+
 - fullname: Salem Lahlou
   affiliations:
   - Mila, Quebec AI Institute
@@ -243,7 +252,7 @@
   bio: "Alexandra is a third-year PhD student at Mila working on application of GFlowNet to drugs and materials discovery. She is interested in developing and applying fundamental machine learning for tackling socially important problems, such pandemics and climate change."
   photo: av.jpg
   alttext: Alexandra Volokhova
-  title: "Molecular conformation"
+  title: "Molecular and protein conformation generation"
   abstract: ""
   session: day3
   date: 20231110

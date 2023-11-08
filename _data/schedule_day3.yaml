@@ -20,7 +20,7 @@
 - name: Talk
   time_start: "09:45"
   time_end: "10:00"
-  title: "Molecular conformation"
+  title: "Molecular and protein conformation generation"
 - name: Break
   time_start: "10:00"
   time_end: "10:15"
