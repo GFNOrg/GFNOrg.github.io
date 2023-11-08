@@ -5,6 +5,8 @@ subtitle: A 3-day free workshop on GFlowNets at Mila in Montreal<br>November 8-1
 toc: false
 ---
 
+{% include join-button.html %}
+
 <div id="home-intro-container">
 
 <h1>Introduction</h1>
@@ -47,8 +49,6 @@ The workshop will delve into several topics, such as pre-requisites, theoretical
 
   - In-person participation: The workshop will be an in-person event and to be held at the Agora of Mila, located at 6650 rue Saint-Urbain, Montreal, QC, H2S 3H1.
   - Online perticipation: You can also join the workshop virtually at [TBD].
-
-{% include registration-button.html %}
 
 ---
 
