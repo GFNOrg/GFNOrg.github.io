@@ -25,6 +25,8 @@ This session is designed to provide pre-requisites on graphs and probability the
 
 The focus is to provide motivation and introduce basic to moderate theory related to GFlowNets. The sessions will delve into the fundamental concepts and principles, ensuring a solid theoretical foundation.
 
+Both practical sessions can be done on google colab ([Session 1](https://colab.research.google.com/drive/1Kx5spOtoT16bzGEaQwYl_msuE-xz05kP?usp=sharing), [Session 2](https://colab.research.google.com/drive/1IeLlcouvnZ97fcSzF9Ahz2MjsgJRYsjT?usp=sharing), or locally using the IPython notebooks found [here](https://github.com/josephdviviano/torchgfn-tutorials).
+
 {% include table-schedule-day2.html %}
 
 ## Day 3 - Applications - November 10th 2023
