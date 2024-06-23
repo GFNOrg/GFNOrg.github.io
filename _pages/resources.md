@@ -8,6 +8,19 @@ permalink: /resources
 
 Here is a summary of recent advancements in the field of GFlowNet that could be helpful for future developments. If you have a paper or repository that you would like to be included, please inform us (`gflownet.workshop@mila.quebec`).
 
+## Tutorials
+- [The GFlowNet Tutorial](http://yoshuabengio.org/gflownet-tutorial). Yoshua Bengio et al.
+
+- [The GFlowNets and Amortized Marginalization Tutorial](https://milayb.notion.site/The-GFlowNets-and-Amortized-Marginalization-Tutorial-01755ca312834e15ab0ae9ef46bcb1bb). Yoshua Bengio.
+
+- [Flow Network based Generative Models for Non-Iterative Diverse Candidate Generation](https://folinoid.com/w/gflownet/). Emmanuel Bengio. 
+
+- [GFlowNet Tutorial with code](https://colab.research.google.com/drive/1fUMwgu2OhYpQagpzU5mhe9_Esib3Q2VR). Emmanuel Bengio.
+
+- [Getting started with `gflownet`](https://colab.research.google.com/drive/1wANyo6Y-ceYEto9-p50riCsGRb_6U6eH). Emmanuel Bengio.
+
+- [GFlowNet Tutorials](https://github.com/josephdviviano/gflownet-tutorials). Joseph Viviano.
+
 ## Papers
 
 ### Conferences and Journals
